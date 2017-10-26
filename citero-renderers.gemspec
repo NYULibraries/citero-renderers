@@ -17,6 +17,6 @@ Gem::Specification.new do |s|
   s.test_files = Dir["test/**/*"]
 
 
-  s.add_dependency "actionpack", "~> 4.2.7.1"
+  s.add_dependency "actionpack", "~> 4.2.8"
   s.add_development_dependency "rake"
 end
