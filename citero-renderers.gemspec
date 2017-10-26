@@ -18,4 +18,5 @@ Gem::Specification.new do |s|
 
 
   s.add_dependency "actionpack", "~> 4.2.7.1"
+  s.add_development_dependency "rake"
 end
